@@ -5,11 +5,11 @@ Python Version:
 
 Packages used:
 
-               pip install opencv-python
+               pip install matplotlib
 
-               pip install protobuf
+               pip install pygame
                
-               pip install mediapipe
+               pip install keras-flops
                
                pip install numpy
                
